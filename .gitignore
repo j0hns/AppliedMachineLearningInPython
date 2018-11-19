@@ -1,0 +1,8 @@
+Include/
+etc/
+Lib/
+.vscode/
+Scripts
+share/
+tcl/
+__pycache__
